@@ -1,0 +1,595 @@
+(46,10,3)added to queue 0
+Queue 0: is processing client 46
+(73,10,6)added to queue 0
+Client 46 was processed.
+Queue 0: is processing client 73
+(157,10,6)added to queue 0
+(177,10,3)added to queue 1
+Queue 1: is processing client 177
+(213,10,5)added to queue 1
+Client 73 was processed.
+Queue 0: is processing client 157
+Client 177 was processed.
+Queue 1: is processing client 213
+(312,10,3)added to queue 0
+(327,10,3)added to queue 1
+Client 213 was processed.
+Queue 1: is processing client 327
+(462,10,3)added to queue 1
+Client 157 was processed.
+Queue 0: is processing client 312
+(492,10,9)added to queue 0
+Client 327 was processed.
+Queue 1: is processing client 462
+Client 312 was processed.
+Queue 0: is processing client 492
+(643,10,5)added to queue 0
+Client 462 was processed.
+(836,10,8)added to queue 1
+Queue 1: is processing client 836
+(962,10,9)added to queue 1
+Queue 2: is processing client 982
+(982,10,3)added to queue 2
+(109,11,3)added to queue 2
+Client 982 was processed.
+Client 492 was processed.
+Queue 0: is processing client 643
+Queue 2: is processing client 109
+Client 836 was processed.
+Queue 1: is processing client 962
+(156,11,9)added to queue 0
+Client 109 was processed.
+(170,11,7)added to queue 1
+Client 643 was processed.
+Queue 0: is processing client 156
+(200,11,8)added to queue 0
+(379,11,3)added to queue 2
+Queue 2: is processing client 379
+(548,11,3)added to queue 2
+Client 962 was processed.
+Queue 1: is processing client 170
+Client 379 was processed.
+Queue 2: is processing client 548
+(768,11,5)added to queue 1
+(824,11,3)added to queue 2
+Client 548 was processed.
+Queue 2: is processing client 824
+Client 156 was processed.
+Queue 0: is processing client 200
+(833,11,6)added to queue 0
+Client 824 was processed.
+Client 170 was processed.
+Queue 1: is processing client 768
+(925,11,6)added to queue 1
+(40,12,5)added to queue 2
+Queue 2: is processing client 40
+(173,12,6)added to queue 2
+Client 768 was processed.
+Client 200 was processed.
+Queue 1: is processing client 925
+Queue 0: is processing client 833
+(246,12,3)added to queue 0
+Client 40 was processed.
+Queue 2: is processing client 173
+(266,12,9)added to queue 1
+(351,12,4)added to queue 2
+Client 833 was processed.
+Client 925 was processed.
+Queue 0: is processing client 246
+Queue 1: is processing client 266
+(378,12,7)added to queue 0
+Client 173 was processed.
+Queue 2: is processing client 351
+Client 246 was processed.
+Queue 0: is processing client 378
+(385,12,9)added to queue 0
+(420,12,3)added to queue 1
+Client 351 was processed.
+Queue 2: is processing client 425
+(425,12,5)added to queue 2
+Client 266 was processed.
+Queue 1: is processing client 420
+(451,12,7)added to queue 1
+Client 378 was processed.
+Queue 0: is processing client 385
+(457,12,3)added to queue 0
+Client 420 was processed.
+Queue 1: is processing client 451
+Client 425 was processed.
+(564,12,4)added to queue 1
+(725,12,6)added to queue 2
+Queue 2: is processing client 725
+(989,12,9)added to queue 2
+Client 385 was processed.
+Queue 0: is processing client 457
+Client 451 was processed.
+Queue 1: is processing client 564
+(88,13,4)added to queue 0
+Client 725 was processed.
+Queue 2: is processing client 989
+(122,13,7)added to queue 1
+Client 457 was processed.
+Queue 0: is processing client 88
+Client 564 was processed.
+Queue 1: is processing client 122
+(284,13,6)added to queue 0
+(337,13,4)added to queue 1
+Client 88 was processed.
+Queue 0: is processing client 284
+(340,13,8)added to queue 0
+(430,13,8)added to queue 2
+Client 122 was processed.
+Queue 1: is processing client 337
+Client 989 was processed.
+Queue 2: is processing client 430
+(766,13,4)added to queue 1
+Client 284 was processed.
+Queue 0: is processing client 340
+(772,13,3)added to queue 0
+Client 337 was processed.
+Queue 1: is processing client 766
+(848,13,6)added to queue 1
+(8,14,8)added to queue 2
+Client 766 was processed.
+Queue 1: is processing client 848
+Client 430 was processed.
+Queue 2: is processing client 8
+(29,14,5)added to queue 1
+Client 340 was processed.
+Queue 0: is processing client 772
+(62,14,7)added to queue 0
+Client 772 was processed.
+Queue 0: is processing client 62
+(104,14,8)added to queue 0
+Client 848 was processed.
+Queue 1: is processing client 29
+(162,14,5)added to queue 1
+Client 8 was processed.
+(395,14,5)added to queue 2
+Queue 2: is processing client 395
+Client 29 was processed.
+Queue 1: is processing client 162
+(410,14,5)added to queue 1
+Client 62 was processed.
+Queue 0: is processing client 104
+(584,14,3)added to queue 0
+Client 395 was processed.
+(646,14,6)added to queue 2
+Queue 2: is processing client 646
+Client 162 was processed.
+Queue 1: is processing client 410
+(693,14,6)added to queue 1
+(3,15,9)added to queue 2
+Client 104 was processed.
+Queue 0: is processing client 584
+Client 410 was processed.
+Queue 1: is processing client 693
+Client 646 was processed.
+Queue 2: is processing client 3
+(142,15,7)added to queue 0
+Client 584 was processed.
+Queue 0: is processing client 142
+(144,15,7)added to queue 0
+(223,15,4)added to queue 1
+Client 693 was processed.
+Queue 1: is processing client 223
+(226,15,3)added to queue 1
+(321,15,4)added to queue 2
+Client 142 was processed.
+Queue 0: is processing client 144
+Client 3 was processed.
+Queue 2: is processing client 321
+Client 223 was processed.
+Queue 1: is processing client 226
+(369,15,4)added to queue 0
+(515,15,3)added to queue 1
+Client 226 was processed.
+Queue 1: is processing client 515
+Client 321 was processed.
+(597,15,5)added to queue 1
+Client 144 was processed.
+Queue 0: is processing client 369
+Client 515 was processed.
+Queue 1: is processing client 597
+(637,15,6)added to queue 0
+(798,15,6)added to queue 1
+Client 369 was processed.
+Queue 0: is processing client 637
+(873,15,3)added to queue 0
+Client 597 was processed.
+Queue 1: is processing client 798
+(100,16,9)added to queue 1
+(267,16,9)added to queue 2
+Queue 2: is processing client 267
+Client 637 was processed.
+Queue 0: is processing client 873
+(494,16,6)added to queue 0
+Client 798 was processed.
+Queue 1: is processing client 100
+(525,16,9)added to queue 1
+Client 873 was processed.
+Queue 0: is processing client 494
+(569,16,3)added to queue 0
+(682,16,7)added to queue 2
+Client 267 was processed.
+Queue 2: is processing client 682
+(723,16,5)added to queue 2
+Client 494 was processed.
+Queue 0: is processing client 569
+Client 100 was processed.
+Queue 1: is processing client 525
+(780,16,4)added to queue 0
+Client 569 was processed.
+Queue 0: is processing client 780
+(885,16,4)added to queue 0
+Client 682 was processed.
+Queue 2: is processing client 723
+(97,17,4)added to queue 1
+Client 780 was processed.
+Queue 0: is processing client 885
+(176,17,7)added to queue 0
+(417,17,5)added to queue 2
+Client 525 was processed.
+Queue 1: is processing client 97
+Client 723 was processed.
+Queue 2: is processing client 417
+Client 885 was processed.
+Queue 0: is processing client 176
+(443,17,6)added to queue 0
+(733,17,9)added to queue 1
+Client 97 was processed.
+Queue 1: is processing client 733
+Client 417 was processed.
+(1,18,4)added to queue 1
+(125,18,4)added to queue 2
+Queue 2: is processing client 125
+Client 176 was processed.
+Queue 0: is processing client 443
+(143,18,3)added to queue 0
+(160,18,5)added to queue 2
+Client 125 was processed.
+Queue 2: is processing client 160
+Client 733 was processed.
+Queue 1: is processing client 1
+(204,18,7)added to queue 1
+Client 443 was processed.
+Queue 0: is processing client 143
+(310,18,6)added to queue 0
+Client 160 was processed.
+Client 1 was processed.
+Client 143 was processed.
+Queue 1: is processing client 204
+Queue 0: is processing client 310
+(355,18,8)added to queue 0
+(504,18,8)added to queue 1
+(530,18,6)added to queue 2
+Queue 2: is processing client 530
+Client 310 was processed.
+Queue 0: is processing client 355
+(602,18,6)added to queue 0
+Client 204 was processed.
+Queue 1: is processing client 504
+(660,18,3)added to queue 1
+Client 530 was processed.
+(665,18,5)added to queue 2
+Queue 2: is processing client 665
+(699,18,4)added to queue 2
+Client 355 was processed.
+Queue 0: is processing client 602
+(728,18,9)added to queue 0
+Client 504 was processed.
+Queue 1: is processing client 660
+Client 665 was processed.
+Queue 2: is processing client 699
+(821,18,8)added to queue 1
+Client 660 was processed.
+Queue 1: is processing client 821
+(894,18,7)added to queue 1
+Client 699 was processed.
+Client 602 was processed.
+Queue 0: is processing client 728
+(970,18,8)added to queue 0
+(988,18,5)added to queue 2
+Queue 2: is processing client 988
+(21,19,6)added to queue 2
+Client 821 was processed.
+Queue 1: is processing client 894
+(52,19,5)added to queue 1
+Client 988 was processed.
+Queue 2: is processing client 21
+(54,19,6)added to queue 2
+Client 728 was processed.
+Queue 0: is processing client 970
+(93,19,7)added to queue 0
+Queue 3: is processing client 147
+(147,19,6)added to queue 3
+Client 894 was processed.
+Queue 1: is processing client 52
+Client 21 was processed.
+Queue 2: is processing client 54
+(148,19,4)added to queue 1
+(191,19,3)added to queue 2
+Client 970 was processed.
+Queue 0: is processing client 93
+Client 52 was processed.
+Queue 1: is processing client 148
+Client 147 was processed.
+(241,19,9)added to queue 0
+Client 54 was processed.
+Queue 2: is processing client 191
+(323,19,6)added to queue 1
+Client 148 was processed.
+Queue 1: is processing client 323
+Client 191 was processed.
+(324,19,8)added to queue 1
+Client 93 was processed.
+Queue 0: is processing client 241
+(511,19,4)added to queue 0
+(656,19,6)added to queue 2
+Queue 2: is processing client 656
+Client 323 was processed.
+Queue 1: is processing client 324
+(695,19,4)added to queue 1
+(792,19,4)added to queue 2
+Client 656 was processed.
+(39,20,3)added to queue 3
+Queue 3: is processing client 39
+Queue 2: is processing client 792
+Client 241 was processed.
+Queue 0: is processing client 511
+(49,20,7)added to queue 0
+Client 39 was processed.
+Client 324 was processed.
+Queue 1: is processing client 695
+(133,20,5)added to queue 1
+Client 792 was processed.
+Client 511 was processed.
+Queue 0: is processing client 49
+(197,20,9)added to queue 0
+Client 695 was processed.
+Queue 1: is processing client 133
+(343,20,4)added to queue 1
+(349,20,5)added to queue 2
+Queue 2: is processing client 349
+Client 49 was processed.
+Queue 0: is processing client 197
+(402,20,8)added to queue 0
+Client 133 was processed.
+Queue 1: is processing client 343
+(454,20,4)added to queue 1
+Client 349 was processed.
+(539,20,3)added to queue 2
+Queue 2: is processing client 539
+Client 343 was processed.
+Queue 1: is processing client 454
+(541,20,8)added to queue 1
+Client 539 was processed.
+(645,20,9)added to queue 2
+Queue 2: is processing client 645
+Client 197 was processed.
+Queue 0: is processing client 402
+Client 454 was processed.
+Queue 1: is processing client 541
+(700,20,5)added to queue 0
+(801,20,4)added to queue 1
+(870,20,7)added to queue 2
+(18,21,6)added to queue 3
+Queue 3: is processing client 18
+Client 402 was processed.
+Queue 0: is processing client 700
+Client 541 was processed.
+Queue 1: is processing client 801
+Client 645 was processed.
+Queue 2: is processing client 870
+(27,21,4)added to queue 0
+(105,21,8)added to queue 1
+Client 801 was processed.
+Queue 1: is processing client 105
+Client 700 was processed.
+Queue 0: is processing client 27
+Client 18 was processed.
+(273,21,7)added to queue 0
+Client 870 was processed.
+(301,21,5)added to queue 1
+Client 27 was processed.
+Queue 0: is processing client 273
+(424,21,6)added to queue 0
+(523,21,6)added to queue 2
+Queue 2: is processing client 523
+Client 105 was processed.
+Queue 1: is processing client 301
+(771,21,8)added to queue 1
+(896,21,5)added to queue 2
+Client 273 was processed.
+Queue 0: is processing client 424
+Client 301 was processed.
+Queue 1: is processing client 771
+(81,22,3)added to queue 0
+Client 523 was processed.
+Queue 2: is processing client 896
+(268,22,7)added to queue 1
+(644,22,7)added to queue 2
+Client 424 was processed.
+Queue 0: is processing client 81
+Client 896 was processed.
+Queue 2: is processing client 644
+(822,22,8)added to queue 0
+Client 771 was processed.
+Queue 1: is processing client 268
+Client 81 was processed.
+Queue 0: is processing client 822
+(883,22,7)added to queue 0
+(11,23,3)added to queue 1
+Client 644 was processed.
+(48,23,3)added to queue 2
+Queue 2: is processing client 48
+(107,23,4)added to queue 2
+Client 268 was processed.
+Queue 1: is processing client 11
+Client 48 was processed.
+Queue 2: is processing client 107
+Client 822 was processed.
+Queue 0: is processing client 883
+(146,23,8)added to queue 0
+Client 11 was processed.
+(386,23,3)added to queue 1
+Queue 1: is processing client 386
+Client 107 was processed.
+(513,23,8)added to queue 1
+Client 386 was processed.
+Queue 1: is processing client 513
+(557,23,9)added to queue 1
+Client 883 was processed.
+Queue 0: is processing client 146
+(674,23,9)added to queue 0
+(83,24,6)added to queue 2
+Queue 2: is processing client 83
+(216,24,4)added to queue 2
+Client 513 was processed.
+Queue 1: is processing client 557
+(567,24,9)added to queue 1
+Client 146 was processed.
+Queue 0: is processing client 674
+Client 83 was processed.
+Queue 2: is processing client 216
+(654,24,3)added to queue 0
+(701,24,8)added to queue 2
+Client 216 was processed.
+Queue 2: is processing client 701
+(707,24,3)added to queue 2
+Client 557 was processed.
+Queue 1: is processing client 567
+(708,24,3)added to queue 1
+Client 674 was processed.
+Queue 0: is processing client 654
+(709,24,9)added to queue 0
+(815,24,9)added to queue 3
+Queue 3: is processing client 815
+Client 654 was processed.
+Queue 0: is processing client 709
+Client 701 was processed.
+Queue 2: is processing client 707
+(918,24,3)added to queue 0
+(1000,24,8)added to queue 2
+Client 567 was processed.
+Client 707 was processed.
+Queue 1: is processing client 708
+Queue 2: is processing client 1000
+(22,25,8)added to queue 1
+Client 708 was processed.
+Queue 1: is processing client 22
+(248,25,6)added to queue 1
+Client 815 was processed.
+Client 709 was processed.
+Queue 0: is processing client 918
+(309,25,8)added to queue 0
+(322,25,6)added to queue 2
+Client 918 was processed.
+Queue 0: is processing client 309
+Client 1000 was processed.
+Queue 2: is processing client 322
+(358,25,4)added to queue 0
+Client 22 was processed.
+Queue 1: is processing client 248
+(555,25,9)added to queue 1
+(587,25,4)added to queue 2
+Client 322 was processed.
+Queue 2: is processing client 587
+(750,25,3)added to queue 2
+Client 309 was processed.
+Queue 0: is processing client 358
+Client 248 was processed.
+Queue 1: is processing client 555
+(756,25,4)added to queue 0
+Client 587 was processed.
+Queue 2: is processing client 750
+(974,25,3)added to queue 1
+Client 358 was processed.
+Queue 0: is processing client 756
+Client 750 was processed.
+(82,26,6)added to queue 0
+(182,26,7)added to queue 2
+Queue 2: is processing client 182
+Client 756 was processed.
+Queue 0: is processing client 82
+(234,26,4)added to queue 0
+Client 555 was processed.
+Queue 1: is processing client 974
+(477,26,3)added to queue 1
+Client 974 was processed.
+Queue 1: is processing client 477
+(479,26,7)added to queue 1
+Client 82 was processed.
+Queue 0: is processing client 234
+Client 182 was processed.
+(617,26,7)added to queue 0
+Client 477 was processed.
+Queue 1: is processing client 479
+(683,26,4)added to queue 1
+Client 234 was processed.
+Queue 0: is processing client 617
+(795,26,4)added to queue 0
+(908,26,8)added to queue 2
+Queue 2: is processing client 908
+Client 479 was processed.
+Queue 1: is processing client 683
+(941,26,3)added to queue 1
+Client 617 was processed.
+Queue 0: is processing client 795
+(951,26,6)added to queue 0
+Client 683 was processed.
+Queue 1: is processing client 941
+(956,26,6)added to queue 1
+Client 795 was processed.
+Queue 0: is processing client 951
+Client 908 was processed.
+(967,26,7)added to queue 0
+Client 941 was processed.
+Queue 1: is processing client 956
+(13,27,8)added to queue 1
+(139,27,3)added to queue 2
+Queue 2: is processing client 139
+Client 951 was processed.
+Queue 0: is processing client 967
+(397,27,7)added to queue 0
+Client 956 was processed.
+Queue 1: is processing client 13
+Client 139 was processed.
+(673,27,5)added to queue 1
+Queue 2: is processing client 865
+(865,27,9)added to queue 2
+(905,27,7)added to queue 2
+Client 967 was processed.
+Queue 0: is processing client 397
+(89,28,5)added to queue 0
+Client 13 was processed.
+Queue 1: is processing client 673
+(138,28,7)added to queue 1
+(168,28,4)added to queue 3
+Queue 3: is processing client 168
+Client 865 was processed.
+Queue 2: is processing client 905
+Client 397 was processed.
+Queue 0: is processing client 89
+Client 673 was processed.
+Queue 1: is processing client 138
+(174,28,7)added to queue 0
+(188,28,4)added to queue 1
+Client 168 was processed.
+(370,28,7)added to queue 2
+Client 89 was processed.
+Queue 0: is processing client 174
+Client 905 was processed.
+Queue 2: is processing client 370
+(449,28,8)added to queue 0
+Client 138 was processed.
+Queue 1: is processing client 188
+(542,28,8)added to queue 1
+(880,28,3)added to queue 2
+Client 188 was processed.
+Queue 1: is processing client 542
+Client 174 was processed.
+Queue 0: is processing client 449
+(25,29,5)added to queue 0
+Client 370 was processed.
+Queue 2: is processing client 880

@@ -1,0 +1,13 @@
+Queue 0: is processing client 1
+(1,7,4)added to queue 0
+(3,23,3)added to queue 0
+Client 1 was processed.
+Queue 0: is processing client 3
+(2,25,2)added to queue 0
+Queue 1: is processing client 4
+(4,27,4)added to queue 1
+Client 3 was processed.
+Queue 0: is processing client 2
+Client 2 was processed.
+Client 4 was processed.
+
